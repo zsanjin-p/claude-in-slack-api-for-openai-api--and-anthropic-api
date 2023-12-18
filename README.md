@@ -1,6 +1,6 @@
 # Claude in Slack API for OpenAI and Anthropic API
 
-本项目旨在将 Slack 中的 Claude 机器人封装为适用于 OpenAI 和 Anthropic 的 API 格式。
+本项目旨在将 Slack 中的 Claude 机器人封装为适用于 OpenAI 和 Anthropic 的 API 格式。从[claude-in-slack-api](https://github.com/yokonsan/claude-in-slack-api)改进而来。
 
 ## 纪念凉掉的 Slack 中的 Claude
 
